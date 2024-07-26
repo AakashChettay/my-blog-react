@@ -9,7 +9,9 @@ const About = () => (
     />
     <h1 className="about-heading">About</h1>
     <p className="about-paragraph">
-      I love to create! I am a front-end web developer
+      Hi, I am Aakash! I am a MERN Stack web developer who loves to create. I am
+      always working on new projects and enjoy multitasking. Follow my blog to
+      see my latest work and thoughts on web development.
     </p>
   </div>
 )
